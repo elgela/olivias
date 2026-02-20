@@ -105,6 +105,11 @@ h6,
     outline: none;
 }
 
+.navbar img {
+    zoom: 20%;
+    margin: 50px;
+}
+
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
     color: var(--primary);
