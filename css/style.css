@@ -163,6 +163,10 @@ h6,
         transition: .5s;
         opacity: 1;
     }
+
+    .col-lg-4 {
+        width: 50%;
+    }
 }
 
 
